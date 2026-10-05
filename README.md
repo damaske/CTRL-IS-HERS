@@ -9,7 +9,6 @@ predict whether a Mashable article will receive **≥ 1,400 shares**.
 | Train / Test | 31,715 / 7,929 articles |
 | Positive rate (train) | ≈ 54.7% |
 | Key challenge | **Temporal shift** — test period is strictly after train |
-| Public result | **1st place** (best of 4 submitted versions) |
 
 
 > **Educational project.** This work was done as a coursework-style Kaggle assignment  
