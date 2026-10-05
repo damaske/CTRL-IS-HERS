@@ -13,7 +13,7 @@ predict whether a Mashable article will receive **≥ 1,400 shares**.
 
 
 > **Educational project.** This work was done as a coursework-style Kaggle assignment  
-> within the **HSE** programme *«IT Ecosystem Control»* (*«Бир экосистем контрол»*, НИУ ВШЭ).  
+> within the a career development program by Bir ecosystem ** “Ctrl is hers”**.  
 > The goal is to practice a full ML cycle: EDA, time-aware validation, ablation, and a reproducible final model — not production deployment.
 
 ---
