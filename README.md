@@ -126,14 +126,7 @@ reg_lambda ≈ 0.71
 
 ---
 
-### 6. Three-model ensemble (experiment)
-Tried LGBM + CatBoost + XGBoost with oof and weight search.  
-Because of TimeSeriesSplit (early rows never appear in val), raw oof AUC looked artificially low (~0.62) until NaNs were masked.  
-For the winning place, **two** models (LGBM+CB) without stacking were enough — simpler and more stable.
-
----
-
-### 7. Final submission (1st place)
+### 6. Final submission (1st place)
 - Features: **all** (no drop)
 - LGBM: Optuna params, **5** random seeds, average probabilities
 - CatBoost: depth=6, lr=0.03, **3** seeds, average
