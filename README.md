@@ -13,7 +13,7 @@ predict whether a Mashable article will receive **≥ 1,400 shares**.
 
 
 > **Educational project.** This work was done as a coursework-style Kaggle assignment  
-> within the a career development program by Bir ecosystem ** “Ctrl is hers”**.  
+> within the a career development program by Bir ecosystem “Ctrl is hers”.  
 > The goal is to practice a full ML cycle: EDA, time-aware validation, ablation, and a reproducible final model — not production deployment.
 
 ---
@@ -139,7 +139,7 @@ Expected runtime on CPU: on the order of **10–20 minutes** (Optuna + multi-see
 
 ## Context
 
-Educational assignment for the **HSE** course *«IT Ecosystem Control»* (*«Бир экосистем контрол»*, НИУ ВШЭ):  
+Educational assignment for the career development program by Bir ecosystem “Ctrl is hers”:  
 a closed/course Kaggle competition on Mashable article share prediction.
 
 The winning submission was the last of four public uploads. Earlier versions either used a weaker blend or incorrectly dropped time-related features after adversarial validation alone.
